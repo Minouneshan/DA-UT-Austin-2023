@@ -3,7 +3,7 @@
 
 Description of each HW:
 <br>
-HW1 : Basics<br>
+HW1 : [Basics<br>](CS329E_HW1.ipynb)
 HW2 : Numpy, Pandas, PDF, CDF, box chart<br>
 HW3 : Feature Eng and Linear regression<br>
 HW4 : Decision Tree Classifier <br>
