@@ -1,7 +1,10 @@
 # Data_analysis_2023
 ### Data Analysis 2023 class
 
-Description of each HW:
+Data Analysis 2023 class
+This repository contains the assignments given during the Spring semester 2023 Data Analysis class at UT Austin.
+
+The assignments are as follows:
 <br>
 HW1 : [Basics<br>](CS329E_HW1.ipynb)
 HW2 : [Numpy, Pandas, PDF, CDF, box chart<br>](CS329e_HW2.ipynb)
