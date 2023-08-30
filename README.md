@@ -4,14 +4,14 @@
 Description of each HW:
 <br>
 HW1 : [Basics<br>](CS329E_HW1.ipynb)
-HW2 : Numpy, Pandas, PDF, CDF, box chart<br>
-HW3 : Feature Eng and Linear regression<br>
-HW4 : Decision Tree Classifier <br>
-HW5 : Crossvalidation and hyperparameter selection<br>
-HW6 : KNN<br>
-HW7 : Naive Bayes<br>
-HW8 : Ensemble Methods and Skewed Data<br>
-HW9 : Clustering with K-means<br>
-HW10 : Clustering with DBSCAN<br>
-HW11 : Hierarchical Clustering and Cluster Evaluation<br>
-HW12 : Association Analysis - Frequent Itemsets and Rule Generation<br>
+HW2 : [Numpy, Pandas, PDF, CDF, box chart<br>](CS329e_HW2.ipynb)
+HW3 : [Feature Eng and Linear regression<br>](CS329e_HW3.ipynb)
+HW4 : [Decision Tree Classifier <br>](CS329e_HW4.ipynb)
+HW5 : [Crossvalidation and hyperparameter selection<br>](CS329e_HW5.ipynb)
+HW6 : [KNN<br>](CS329e_HW6.ipynb)
+HW7 : [Naive Bayes<br>](CS329e_HW7.ipynb)
+HW8 : [Ensemble Methods and Skewed Data<br>](CS329e_HW8.ipynb)
+HW9 : [Clustering with K-means<br>](CS329e_HW9.ipynb)
+HW10 : [Clustering with DBSCAN<br>](CS329e_HW10.ipynb)
+HW11 : [Hierarchical Clustering and Cluster Evaluation<br>](CS329e_HW11.ipynb)
+HW12 : [Association Analysis - Frequent Itemsets and Rule Generation<br>](CS329e_HW12.ipynb)
