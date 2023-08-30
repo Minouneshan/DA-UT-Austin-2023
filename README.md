@@ -1,8 +1,8 @@
 # Data_analysis_2023
 ### Data Analysis 2023 class
 
-Data Analysis 2023 class
-This repository contains the assignments given during the Spring semester 2023 Data Analysis class at UT Austin.
+
+This repository contains the assignments given during the Spring Semester 2023 Data Analysis class at UT Austin.
 
 The assignments are as follows:
 <br>
